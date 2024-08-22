@@ -1,0 +1,43 @@
+<!--Heading tag-->
+<h1 style="text-align: center;">Web Development</h1>
+<h2 style="text-align: center;">FrontEnd Development</h2>
+<h3 style="color:#009900;font-style: italic">1.HTML</h3>
+<h3 style="color:#12cda7;font-style: italic">2.CSS</h3>
+<h4>--2.1.BootStrap</h4>
+<h3 style="color:#127894;font-style: italic">3.JAVASCRIPT</h3>
+<h4>--3.1.Angular JS</h4>
+<h4>--3.2.React JS</h4>
+</div>
+<!--Paragraph tag-->
+<p>We are trying to make our time useful</p>
+
+<!--Anchor tag-->
+<a href="https://www.flipkart.com">Flipkart</a><br>
+<!--href(attribute of anchor tag)= Hyperlink's Reference-->
+
+<!--Image tag--> <!--scr(attribute of image tag)-->
+<!--Break tag -doesn't allow place anything in that line--> <!--Center tag-->
+<!--width -size of the img--> <!--alt -the alternate name or source if anything went wrong eg. image name went wrong mean a the alt works-->
+ <center>
+<img src="vijay.jpg" alt="Vijay Image" width="300px"><br>
+<a href="https://youtu.be/szvt1vD0Uug?si=2kui6JflmsNiv0Pk">Na ready dhan varava</a>
+</center>
+
+<!--Ordered list -specify the list by num--> <!--List tag-->
+<ol>
+    <li>One</li>
+    <li>Two</li>
+    <li>Three</li>
+</ol>
+
+<!--UnOrdered list-->
+<ul>
+    <li>One</li>
+    <li>Two</li>
+    <li>Three</li>
+</ul>
+
+<!--iFrame -allows other website in our page-->
+<!--hr tag(Horizontal rule) -creates a horizontal line-->
+<iframe src="https://www.flipkart.com"></iframe>
+<hr>
